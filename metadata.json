@@ -1,0 +1,6 @@
+{
+  "name": "Numidia Digital Bank - بنك نوميديا الرقمي",
+  "description": "منصة بنكية رقمية متكاملة لخدمات الحسابات متعددة العملات (DZD، EUR، USD)، الادخار الذكي والاستثمار، وإصدار بطاقات فيزا كارد الدولية والمحلية في الجزائر وجميع أنحاء العالم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
